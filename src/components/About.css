@@ -1,0 +1,10 @@
+.information{
+    text-align: center;
+    background-color: azure;
+
+}
+.description{
+    text-align: justify;
+    background-color: cornsilk;
+    padding: 15px;
+}
